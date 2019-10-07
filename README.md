@@ -1,1 +1,1 @@
-# Computer-vision-using-Convolution-Neural-network-for-multi-class-image-classification
+# Computer-vision-for-multi-class-image-classification.
