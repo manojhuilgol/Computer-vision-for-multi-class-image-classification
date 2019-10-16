@@ -14,7 +14,7 @@
 ```
 
 ### Overview
-The Raw image data which represents the real world image data has been downloaded from the kaggle, which contains the images of 5 different class of animals and their corresponsing labels. The main objective of this project is to implement the supervised learning algorithm to initially train the model with the convolution neural network. 
+The Raw image data which represents the real world image data has been downloaded from the kaggle, which contains the images of 5 different class of animals and their corresponsing labels. The main objective of this project is to initially train the model with the convolution neural network using three models and then testing the accuracy, precison and recall of three models.
 
 Initially, the neural network model is trained with the sequential baseline model which consists of 5 layers. Later, in order to optimize increase the precision of the classifier, the neural network is trained with ResNet50 and Inception V3.
 
