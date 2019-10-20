@@ -34,3 +34,9 @@ The below image represents the comparison of the Training and Validation accurac
 - Inception V3 model
 
 <img src="https://github.com/manojhuilgol/Computer-vision-for-multi-class-image-classification/blob/master/images/evaluation.PNG" alt="alt text" width="700" height="400">
+
+
+## Note: 
+1. Since Github has an issue in displaying .ipynb files here, please paste the project link by navigating to the following URL: https://nbviewer.jupyter.org/ 
+
+2. The other option is to clone the repository to the local drive and load it in a Jupyter Notebook.
